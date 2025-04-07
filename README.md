@@ -50,7 +50,6 @@ yantrix/
 ├── main.cpp        # Entry point for UI and user interaction
 ├── alu.cpp         # Core ALU logic implementation
 ├── alu.h           # ALU class definitions and declarations
-├── utils.h         # Helper functions (optional)
 └── README.md       # You're here!
 ---
 ```
